@@ -49,7 +49,7 @@
 #### Others
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"></code
+<code><img height="30" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"></code>
 
