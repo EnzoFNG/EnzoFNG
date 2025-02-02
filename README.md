@@ -54,6 +54,6 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzogodoy&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Enzo's GitHub Stats" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogodoy&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" width="40%" alt="Enzo's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=enzofng&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Enzo's GitHub Stats" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofng&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" width="40%" alt="Enzo's Top Languages">
 </p>
