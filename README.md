@@ -6,7 +6,7 @@
     width="auto" 
   >
 </p>
-<h1 align="center"><b>Welcome, I'm Enzo Felipe Nogueira Godoy 👋</b></h1>
+<h1 align="center"><b>Welcome, I'm Enzo Godoy 👋</b></h1>
 <h4 align="center"><b>"Believe it! Nothing can stop me from achieving my goals! 🌀"</b></h4>
 
 <p align="center">
