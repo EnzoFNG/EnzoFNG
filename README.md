@@ -2,8 +2,8 @@
  <img 
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2kwbzQ0MXp2emc0d3FpMXBkaWJiM2dkMHNpY2l1b3Jyc3RwYmNvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SYpZ92iLQsF6QZl5u/giphy.gif"
     align="center" 
-    height="300" 
-    width="auto" 
+    height="200" 
+    width="1500" 
   >
 </p>
 <h1 align="center"><b>Welcome, I'm Enzo Godoy 👋</b></h1>
