@@ -2,8 +2,8 @@
  <img 
     src="Banner Dark.png"
     align="center" 
-    height="200" 
-    width="1500" 
+    height="396" 
+    width="1584" 
   >
 </p>
 <h1 align="center"><b>Welcome, I'm Enzo Godoy 👋</b></h1>
