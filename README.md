@@ -1,6 +1,6 @@
 <p align="center">
  <img 
-    src="Banner Dark.jpg"
+    src="Banner Dark.png"
     align="center" 
     height="200" 
     width="1500" 
